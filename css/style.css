@@ -47,6 +47,7 @@ body {
 
 section {
     margin: 100px 0;
+    padding: 0 10%;
 }
 
 .donate-today {
@@ -116,3 +117,44 @@ section {
 }
 
 /* ----------------donate-today section end-----------  */
+
+/* ----------------donate-plan section start-----------  */
+
+.container {
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.box {
+    padding: 20px;
+
+}
+
+.box img {
+    height: 40px;
+}
+
+.box h3 {
+    font-size: 16px;
+    margin: 15px 0;
+}
+
+.box p {
+    font-size: 12px;
+    color: #666;
+}
+
+.box-1 {
+    background: #EDF5F6;
+}
+
+.box-2 {
+    background: #FFEEEE;
+}
+
+.box-3 {
+    background: #FFF4D6;
+}
+
+/* ----------------donate-plan section end-----------  */
