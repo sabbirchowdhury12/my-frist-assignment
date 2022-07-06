@@ -156,6 +156,35 @@ section {
 
 /* ----------------donate-plan section end-----------  */
 
+/* -------bonous section start---------- */
+.contact .icon-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact .icon img {
+    height: 70px;
+    background: #cd9452;
+    color: #FFf;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.contact .icon {
+    text-align: center;
+    margin: 40px;
+}
+
+.share {
+    text-align: center;
+
+}
+
+.share img {
+    height: 50px;
+    margin: 10px;
+}
+
 /* -- ----------------update section start----------- -- */
 
 form {
